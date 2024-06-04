@@ -1,6 +1,6 @@
 ## olá bem vindo 💙
 
-me chamo samara
+me chamo samara.
 
 estou estudando no alura
 
